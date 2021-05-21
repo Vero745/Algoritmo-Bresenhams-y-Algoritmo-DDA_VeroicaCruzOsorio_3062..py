@@ -1,0 +1,1 @@
+# Algoritmo-Bresenhams-y-Algoritmo-DDA_VeroicaCruzOsorio_3062..py
